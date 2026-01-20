@@ -22,7 +22,7 @@ A no-GUI YouTube music player for the terminal. Built with Node.js and mpv. Exec
 
 ## ⚡ WHAT THIS DOES
 
-* 🔥 Streams **any YouTube audio**
+* 🔥 Streams **any YouTube audio/video**
 * 🧠 Accepts **links OR raw song names**
 * 🕶 Runs silently in your terminal
 * 🎮 Controlled with single keystrokes
